@@ -3,7 +3,7 @@ Example Notebooks that compare various python visualization libraries. Each note
 
 The following comparasions are available: 
 
-* [Heatmaps in 10 Libraries](#Heatmap)
+* Heatmaps in 10 Libraries: *Heatmaps.ipynb*
 
 
 ##Installation Discussion
