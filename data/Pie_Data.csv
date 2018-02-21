@@ -1,0 +1,165 @@
+ParticipantLine,Source,EatingOccasion,AtHome,Calories,FoodCode
+73570.015.0,Store,Dinner,True,428.0, lemon (not cream or meringue)
+73598.015.0,Restaurant with Waiter-Waitress,Dinner,False,726.0, pumpkin
+73633.08.0,Store,Lunch,False,309.0, pumpkin
+73653.018.0,From Somewhere Else-Gift,Snack,True,123.0, lemon (not cream or meringue)
+73726.017.0,Bake Sale,Snack,True,17.0, blueberry
+73726.08.0,Bake Sale,Breakfast,True,345.0, blueberry
+73734.08.0,Store,Snack,True,454.0, Toll house chocolate chip
+73765.013.0,Store,Dinner,True,390.0, pineapple
+73805.06.0,From Somewhere Else-Gift,Snack,False,314.0, chocolate cream
+73805.08.0,From Somewhere Else-Gift,Snack,False,234.0, lemon (not cream or meringue)
+73840.013.0,Store,Dinner,True,397.0, sweet potato
+73847.08.0,Convenience Store,Lunch,False,379.0, apple
+73862.023.0,Store,Snack,True,195.0, cherry
+73878.015.0,Restaurant with Waiter-Waitress,Lunch,False,363.0, sweet potato
+73930.020.0,From Somewhere Else-Gift,Snack,True,134.0, sweet potato
+73930.021.0,From Somewhere Else-Gift,Snack,True,155.0, pecan
+73995.022.0,From Somewhere Else-Gift,Snack,False,148.0, pumpkin
+74127.023.0,Store,Dinner,True,635.0, sweet potato
+74141.017.0,From Somewhere Else-Gift,Snack,False,250.0, pumpkin
+74160.017.0,From Somewhere Else-Gift,Snack,True,94.0, pumpkin
+74240.08.0,Restaurant with Waiter-Waitress,Snack,True,992.0, sweet potato
+74394.013.0,From Somewhere Else-Gift,Snack,True,124.0, sweet potato
+74504.07.0,Store,Dinner,True,428.0, lemon (not cream or meringue)
+74576.011.0,From Somewhere Else-Gift,Snack,False,143.0, lemon (not cream or meringue)
+74859.016.0,Store,Snack,True,226.0, lemon meringue
+74867.014.0,Store,Dinner,True,116.0, pumpkin
+75004.015.0,Store,Dinner,False,379.0, individual size or tart
+75123.06.0,FastFood,Snack,True,504.0, apple
+75212.04.0,From Somewhere Else-Gift,Snack,False,268.0, chocolate cream
+75224.012.0,Store,Dinner,True,265.0, apple
+75307.04.0,Store,Lunch,True,282.0, custard
+75451.010.0,Store,Dinner,True,440.0, apple
+75512.02.0,FastFood,Breakfast,False,569.0, apple
+75702.015.0,Store,Snack,True,235.0, rhubarb
+75711.017.0,Store,Dinner,True,317.0, strawberry
+75998.010.0,Store,Dinner,True,449.0, apple
+76133.011.0,From Somewhere Else-Gift,Snack,False,563.0, apple
+76277.010.0,Store,Brunch,True,285.0, apple
+76302.08.0,Non-School Cafeteria,Lunch,False,362.0, lemon meringue
+76363.024.0,Restaurant with Waiter-Waitress,Dinner,True,536.0, mince
+76423.012.0,Store,Snack,True,97.0, banana cream
+76461.010.0,Soup Kitchen or Food Pantry,Snack,False,378.0, Toll house chocolate chip
+76592.017.0,Store,Snack,True,220.0, apple
+76650.018.0,Store,Snack,True,163.0, strawberry-rhubarb
+76669.011.0,From Somewhere Else-Gift,Cena,False,423.0, sweet potato
+76723.022.0,From Somewhere Else-Gift,Dinner,True,314.0, chocolate cream
+76723.023.0,From Somewhere Else-Gift,Dinner,True,192.0, pecan
+76767.012.0,Store,Lunch,False,233.0, pecan
+76814.012.0,Store,Snack,True,551.0, cherry
+76834.01.0,Store,Breakfast,True,880.0, apple
+76903.09.0,Store,Dinner,True,460.0, apple
+76915.015.0,From Somewhere Else-Gift,Snack,True,331.0, sweet potato
+76925.06.0,From Somewhere Else-Gift,Snack,False,296.0, peanut butter cream
+77014.011.0,Store,Lunch,False,265.0, coconut cream
+77014.016.0,Store,Snack,True,226.0, lemon meringue
+77037.022.0,Store,Dinner,True,300.0, pumpkin
+77151.03.0,Store,Breakfast,False,379.0, apple
+77206.012.0,Store,Snack,True,331.0, sweet potato
+77244.04.0,Store,Snack,True,352.0, peach
+77301.012.0,Store,Snack,True,300.0, pumpkin
+77412.019.0,Store,Snack,True,317.0, strawberry
+77534.025.0,Restaurant with Waiter-Waitress,Dinner,True,453.0, lemon meringue
+77538.016.0,Store,Snack,False,1266.0, apple
+77820.022.0,Restaurant with Waiter-Waitress,Dinner,True,579.0, lemon meringue
+77919.08.0,Store,Dinner,True,563.0, apple
+77959.018.0,Store,Drink,True,460.0, pecan
+78114.016.0,Store,Snack,True,250.0, pumpkin
+78117.018.0,FastFood,Dinner,True,243.0, apple
+78337.011.0,Store,Snack,True,316.0, blackberry
+78337.012.0,Store,Snack,True,407.0, apple
+78337.09.0,Store,Snack,True,267.0, raspberry
+78467.09.0,Store,Snack,True,265.0, coconut cream
+78478.019.0,From Somewhere Else-Gift,Lunch,False,317.0, apple
+78514.03.0,From Somewhere Else-Gift,Snack,False,803.0, chocolate cream
+78518.020.0,Store,Dinner,True,775.0, strawberry
+78559.05.0,From Somewhere Else-Gift,Lunch,False,365.0, buttermilk
+78669.031.0,From Somewhere Else-Gift,Snack,False,380.0, strawberry
+78703.015.0,Store,Snack,True,462.0, lemon (not cream or meringue)
+78703.08.0,Store,Snack,True,462.0, lemon (not cream or meringue)
+78731.019.0,Store,Snack,True,187.0, pumpkin
+78755.011.0,FastFood,Lunch,False,268.0, chocolate cream
+78829.07.0,FastFood,Lunch,True,533.0, pumpkin
+78866.011.0,FastFood,Dinner,True,229.0, custard
+78902.011.0,Convenience Store,Snack,False,263.0, coconut cream
+78992.03.0,FastFood,Lunch,False,487.0, apple
+79027.011.0,From Somewhere Else-Gift,Snack,False,314.0, chocolate cream
+79027.012.0,From Somewhere Else-Gift,Snack,False,234.0, lemon (not cream or meringue)
+79077.015.0,Store,Dinner,True,314.0, chocolate cream
+79154.026.0,Store,Dinner,True,331.0, apple
+79163.018.0,From Somewhere Else-Gift,Lunch,False,235.0, oatmeal
+79163.019.0,From Somewhere Else-Gift,Lunch,False,226.0, coconut cream
+79163.031.0,From Somewhere Else-Gift,Dinner,False,367.0, oatmeal
+79163.032.0,From Somewhere Else-Gift,Dinner,False,177.0, coconut cream
+79189.03.0,FastFood,Snack,False,487.0, apple
+79193.019.0,Store,Snack,True,440.0, apple
+79337.017.0,Store,Snack,True,206.0, pecan
+79337.018.0,From Somewhere Else-Gift,Snack,True,123.0, pumpkin
+79385.02.0,Vending Machine,Breakfast,False,271.0, apple
+79422.025.0,From Somewhere Else-Gift,Snack,True,226.0, lemon meringue
+79713.012.0,Store,Snack,True,563.0, apple
+79748.07.0,Store,Lunch,False,432.0, lemon (not cream or meringue)
+79793.010.0,Store,Snack,False,269.0, apple
+79814.07.0,From Somewhere Else-Gift,Lunch,False,263.0, peach
+79815.025.0,From Somewhere Else-Gift,Dinner,False,836.0, chocolate cream
+79819.035.0,Store,Dinner,True,339.0, coconut cream
+79905.015.0,From Somewhere Else-Gift,Lunch,False,229.0, custard
+79905.017.0,Store,Snack,True,317.0, strawberry
+79924.07.0,Store,Snack,False,372.0, berry
+79989.014.0,Restaurant with Waiter-Waitress,Dinner,False,401.0, chocolate cream
+80082.014.0,Restaurant with Waiter-Waitress,Lunch,False,326.0, lemon meringue
+80092.025.0,Store,Dinner,False,11.0, sweet potato
+80101.04.0,FastFood,Lunch,False,271.0, apple
+80156.014.0,Store,Snack,True,211.0, raspberry
+80175.04.0,FastFood,Snack,False,243.0, apple
+80175.06.0,FastFood,Snack,False,243.0, apple
+80328.010.0,From Somewhere Else-Gift,Dinner,True,758.0, individual size or tart
+80382.015.0,Store,Dinner,True,672.0, apple
+80417.08.0,Store,Dinner,True,123.0, pumpkin
+80526.07.0,Store,Dinner,False,265.0, apple
+80526.08.0,Store,Dinner,False,291.0, cherry
+80586.010.0,Store,Dinner,True,726.0, pumpkin
+80586.07.0,Store,Snack,False,726.0, pumpkin
+80635.08.0,Store,Snack,True,314.0, chocolate cream
+80772.020.0,Store,Dinner,True,98.0, cherry
+80794.01.0,Store,Breakfast,True,398.0, blueberry
+80841.023.0,Grown by Someone you know,Snack,True,263.0, blueberry
+80850.05.0,Restaurant with Waiter-Waitress,Dinner,False,664.0, peanut butter cream
+80883.07.0,Store,Snack,True,302.0, lemon meringue
+80943.017.0,From Somewhere Else-Gift,Dinner,False,370.0, apple
+81067.021.0,Store,Snack,True,199.0, strawberry-rhubarb
+81232.015.0,Store,Dinner,True,308.0, cherry
+81342.034.0,Restaurant with Waiter-Waitress,Dinner,True,434.0, lemon meringue
+81436.019.0,Store,Snack,True,880.0, apple
+81471.013.0,Store,Snack,True,299.0, lemon (not cream or meringue)
+81512.023.0,From Somewhere Else-Gift,Dinner,False,331.0, sweet potato
+81537.019.0,Restaurant with Waiter-Waitress,Dinner,True,188.0, apple
+81544.024.0,From Somewhere Else-Gift,Dinner,False,307.0, lemon cream
+81550.012.0,Store,Dinner,True,379.0, individual size or tart
+81628.013.0,Store,Dinner,False,241.0, cherry
+81995.08.0,FastFood,Breakfast,False,243.0, apple
+82091.011.0,From Somewhere Else-Gift,Snack,True,379.0, apple
+82141.01.0,Store,Breakfast,True,758.0, individual size or tart
+82141.018.0,Store,Snack,False,370.0, individual size or tart
+82181.05.0,Store,Snack,True,208.0, peach
+82181.06.0,Store,Snack,True,261.0, raspberry
+82452.08.0,From Somewhere Else-Gift,Dinner,True,375.0, pumpkin
+82519.017.0,Store,Dinner,True,482.0, cherry
+82573.017.0,FastFood,Dinner,True,243.0, apple
+82664.013.0,Restaurant with Waiter-Waitress,Dinner,False,610.0, coconut cream
+82674.014.0,Store,Snack,True,474.0, lemon (not cream or meringue)
+82712.012.0,Store,Lunch,False,231.0, pumpkin
+82821.03.0,Store,Dinner,True,750.0, pumpkin
+82889.017.0,Store,Snack,True,308.0, cherry
+82898.013.0,Store,Cena,True,317.0, apple
+82968.018.0,From Somewhere Else-Gift,Dinner,False,193.0, lemon meringue
+83073.06.0,From Somewhere Else-Gift,Snack,True,268.0, chocolate cream
+83100.03.0,From Somewhere Else-Gift,Dinner,True,1071.0, sweet potato
+83108.010.0,Store,Snack,True,79.0, apple
+83128.022.0,FastFood,Dinner,True,563.0, apple
+83244.022.0,Store,Dinner,True,405.0, lemon (not cream or meringue)
+83287.010.0,Restaurant with Waiter-Waitress,Lunch,False,127.0, sweet potato
+83563.012.0,Store,Dinner,True,380.0, strawberry
+83647.015.0,Store,Snack,True,536.0, berry
+83724.019.0,Restaurant with Waiter-Waitress,Dinner,False,362.0, lemon meringue
