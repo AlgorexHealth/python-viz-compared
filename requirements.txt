@@ -27,7 +27,7 @@ jupyter-core==4.3.0
 lightning-python==1.2.1
 MarkupSafe==1.0
 matplotlib==2.0.2
-mistune==0.7.4
+mistune==0.8.1
 mizani==0.3.4
 nbconvert==5.3.1
 nbextensions==0.0.6
