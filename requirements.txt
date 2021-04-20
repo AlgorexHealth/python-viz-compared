@@ -45,7 +45,7 @@ plotly==2.0.15
 plotnine==0.2.1
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
-py==1.4.34
+py==1.10.0
 Pygments==2.2.0
 pyparsing==2.2.0
 pytest==3.2.2
